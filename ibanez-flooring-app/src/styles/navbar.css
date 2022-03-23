@@ -1,0 +1,21 @@
+.links {
+  margin-left: auto;
+  text-decoration: none;
+  font-size: 1.25rem;
+}
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+nav {
+  display: flex;
+  margin: 0;
+  padding: 1rem 0;
+  background-color: #040f16;
+  color: #e1dee3;
+  position: sticky;
+}
+
+h1 {
+  margin: 0;
+}

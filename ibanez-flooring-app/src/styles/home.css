@@ -5,14 +5,19 @@
   text-align: center;
   background-color: lightgray;
 }
+
 .introduction {
+  display: flex;
+  flex-direction: column;
   text-align: center;
+  justify-content: center;
+  align-items: center;
   background-color: #040f16;
   color: #e1dee3;
   margin: 0;
-  top: 0;
   padding: none;
 }
+
 body {
   background-color: #e1dee3;
   margin: 0;
