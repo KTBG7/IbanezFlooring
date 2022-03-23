@@ -1,0 +1,21 @@
+.vinyl {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: lightgray;
+}
+.introduction {
+  text-align: center;
+  background-color: #040f16;
+  color: #e1dee3;
+  margin: 0;
+  top: 0;
+  padding: none;
+}
+body {
+  background-color: #e1dee3;
+  margin: 0;
+  padding: none;
+  color: #040f16;
+}
